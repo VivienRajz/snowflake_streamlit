@@ -46,4 +46,4 @@ streamlit.text("fruit load list contains:")
 streamlit.text(my_data_row)
 
 add_my_fruit = streamlit.text_input("Add another fruit")
-my_data_row.
+#my_data_row.
